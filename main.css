@@ -1,0 +1,17 @@
+.test-col{
+     
+         min-height: 20px;  
+}
+.business-table-plus{
+    background-color: green;
+}
+.business-table-minus{
+    background-color: yellow;
+}
+.test-icon-width{
+     min-width: 24px;
+     min-height: 20px;  
+}
+.test-row-height{
+     min-height: 20px;  
+}

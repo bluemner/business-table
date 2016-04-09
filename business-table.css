@@ -1,0 +1,46 @@
+business-table {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+business-table business-search {
+  float: right;
+}
+business-table business-header {
+  border: solid 1px black;
+  background-color: black;
+  color: white;
+}
+business-table business-row,
+business-table business-header {
+  width: 100%;
+  display: inline-block;
+  border-left: solid 1px black;
+  border-right: solid 1px black;
+}
+business-table business-row business-data,
+business-table business-header business-data {
+  width: 100%;
+  border-bottom: solid 1px black;
+  display: inline-block;
+}
+business-table business-row business-icon,
+business-table business-header business-icon,
+business-table business-row business-spacer,
+business-table business-header business-spacer {
+  float: left;
+  display: inline-block;
+}
+business-table business-row business-col,
+business-table business-header business-col,
+business-table business-row business-title,
+business-table business-header business-title {
+  float: left;
+  border-left: solid 1px black;
+  display: inline-block;
+}
+business-table business-body {
+  display: inline-block;
+  border-bottom: solid 1px black;
+}
