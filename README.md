@@ -14,6 +14,8 @@ __Layout:__
 
 ![business-table](business-table.jpg)
 
-__Install: __
+.
+
+__Install:__
 
 Just include business-table.js & business-table.css (or include the less file) into your project
