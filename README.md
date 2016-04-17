@@ -1,5 +1,5 @@
 # business-table
-Allows the use of new html tags that creates a business table style table with a collapsible body. 
+Allows the use of new html tags that creates a business table and style the table with a collapsible body. 
 
 __Dependencies:__ none 
 

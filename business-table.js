@@ -3,7 +3,7 @@ var businessTable = {
     init: function () {
         this.hiddenAttribute();
         this.iconTag();
-        this.seachTag();
+        this.searchTag();
         this.filterTag();
     },
     hiddenAttribute: function () {
@@ -48,7 +48,7 @@ var businessTable = {
                     icon.classList.add("business-table-minus");
                 }
     },
-    seachTag: function () {
+    searchTag: function () {
         var businessSearchList = document.getElementsByTagName('business-search');
         for (var i = 0; i < businessSearchList.length; i++) {
 
